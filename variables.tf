@@ -13,3 +13,5 @@ variable "dnsHostNames" {
 variable "vpcCIDRblock" {
 }
 
+variable "region" {
+}
